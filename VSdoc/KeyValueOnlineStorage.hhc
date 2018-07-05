@@ -1,0 +1,339 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<!-- Sitemap 1.0 -->
+</HEAD>
+<body style="direction: ltr;">
+<OBJECT type="text/site properties">
+	<param name="Window Styles" value="0x800025">
+</OBJECT>
+<UL>
+				<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="KeyValueOnlineStorage Reference">
+ 		<param name="Local" value="topic_0000000000000010.html">
+ 
+		</OBJECT>
+ 	<UL>
+     
+
+   	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Assets.KeyValueOnlineStorage Namespace">
+		<param name="Local" value="topic_0000000000000000.html">
+		</OBJECT>
+	<UL>
+
+							<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Downloader Class">
+		<param name="Local" value="topic_0000000000000001.html">
+		</OBJECT>
+	<UL>
+
+		
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+				<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Methods">
+		<param name="Local" value="topic_0000000000000001_methods--.html">
+		</OBJECT>
+			<UL>
+						  
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Download Method">
+		<param name="Local" value="topic_0000000000000004.html">
+		</OBJECT>
+  
+
+						  
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="OnDestroy Method">
+		<param name="Local" value="topic_0000000000000003.html">
+		</OBJECT>
+  
+
+			
+			</UL>
+		
+
+
+		
+
+
+		
+
+
+				<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fields">
+		<param name="Local" value="topic_0000000000000001_vars--.html">
+		</OBJECT>
+			<UL>
+						  
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="EnableLogging Field">
+		<param name="Local" value="topic_0000000000000002.html">
+		</OBJECT>
+  
+
+			
+			</UL>
+		
+
+
+	</UL>
+
+
+					<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Example Class">
+		<param name="Local" value="topic_0000000000000005.html">
+		</OBJECT>
+	<UL>
+
+		
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+				<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Methods">
+		<param name="Local" value="topic_0000000000000005_methods--.html">
+		</OBJECT>
+			<UL>
+						  
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Feedback Method">
+		<param name="Local" value="topic_000000000000000C.html">
+		</OBJECT>
+  
+
+						  
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Get Method">
+		<param name="Local" value="topic_000000000000000B.html">
+		</OBJECT>
+  
+
+						  
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Set Method">
+		<param name="Local" value="topic_000000000000000A.html">
+		</OBJECT>
+  
+
+			
+			</UL>
+		
+
+
+		
+
+
+		
+
+
+				<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Fields">
+		<param name="Local" value="topic_0000000000000005_vars--.html">
+		</OBJECT>
+			<UL>
+						  
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="GetButton Field">
+		<param name="Local" value="topic_0000000000000009.html">
+		</OBJECT>
+  
+
+						  
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Input Field">
+		<param name="Local" value="topic_0000000000000006.html">
+		</OBJECT>
+  
+
+						  
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Key Field">
+		<param name="Local" value="topic_0000000000000007.html">
+		</OBJECT>
+  
+
+						  
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Output Field">
+		<param name="Local" value="topic_0000000000000008.html">
+		</OBJECT>
+  
+
+			
+			</UL>
+		
+
+
+	</UL>
+
+
+					<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="KeyValueService Class">
+		<param name="Local" value="topic_000000000000000D.html">
+		</OBJECT>
+	<UL>
+
+		
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+				<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Methods">
+		<param name="Local" value="topic_000000000000000D_methods--.html">
+		</OBJECT>
+			<UL>
+						  
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="GetValueAsync Method">
+		<param name="Local" value="topic_000000000000000F.html">
+		</OBJECT>
+  
+
+						  
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="SetValueAsync Method">
+		<param name="Local" value="topic_000000000000000E.html">
+		</OBJECT>
+  
+
+			
+			</UL>
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+	</UL>
+
+
+		
+		
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+	</UL>
+
+
+ 
+
+  
+	</UL>
+ 
+
+
+
+	
+	
+</UL>
+</BODY>
+</HTML>

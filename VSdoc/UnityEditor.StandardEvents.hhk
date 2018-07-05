@@ -1,0 +1,45 @@
+<HTML>
+<!-- Sitemap 1.0 -->
+<OBJECT type="text/site properties">
+</OBJECT>
+
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="OnPreprocessBuild Method">
+		<param name="Name" value="OnPreprocessBuild Method">
+		<param name="Local" value="topic_0000000000000003.html">
+		</OBJECT>
+
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="StandardEventsImporter Class">
+		<param name="Name" value="StandardEventsImporter Class">
+		<param name="Local" value="topic_0000000000000001.html">
+		</OBJECT>
+
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="UnityEditor Namespace">
+		<param name="Name" value="UnityEditor Namespace">
+		<param name="Local" value="topic_0000000000000000.html">
+		</OBJECT>
+
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="UnityEditor.StandardEvents Reference">
+		<param name="Name" value="UnityEditor.StandardEvents Reference">
+		<param name="Local" value="topic_0000000000000004.html">
+		</OBJECT>
+
+
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Keyword" value="callbackOrder Property">
+		<param name="Name" value="callbackOrder Property">
+		<param name="Local" value="topic_0000000000000002.html">
+		</OBJECT>
+
+
+
+</UL>
+
+</HTML>

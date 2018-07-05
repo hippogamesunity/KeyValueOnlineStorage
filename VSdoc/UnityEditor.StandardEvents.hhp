@@ -1,0 +1,35 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=UnityEditor.StandardEvents.chm
+Contents file=UnityEditor.StandardEvents.hhc
+
+Default topic=topic_0000000000000004.html
+Default Window=main
+Full-text search=Yes
+Default Font=,8,0
+Language=0x0409
+
+[WINDOWS]
+main="UnityEditor.StandardEvents Reference","UnityEditor.StandardEvents.hhc","UnityEditor.StandardEvents.hhk","topic_0000000000000004.html",,,,,,0x62520,,0x381e,[73,30,525,455],,,,,,,0
+
+[FILES]
+msdn2017\*.gif
+msdn2017\*.png
+
+
+
+[ALIAS]
+topic_0000000000000003.html=topic_0000000000000003.html
+topic_0000000000000001.html=topic_0000000000000001.html
+topic_0000000000000000.html=topic_0000000000000000.html
+topic_0000000000000004.html=topic_0000000000000004.html
+topic_0000000000000002.html=topic_0000000000000002.html
+
+
+[MAP]
+#define topic_0000000000000003.html 104
+#define topic_0000000000000001.html 102
+#define topic_0000000000000000.html 101
+#define topic_0000000000000004.html 100
+#define topic_0000000000000002.html 103
+

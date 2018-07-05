@@ -1,0 +1,59 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=KeyValueOnlineStorage.chm
+Contents file=KeyValueOnlineStorage.hhc
+
+Default topic=topic_0000000000000010.html
+Default Window=main
+Full-text search=Yes
+Default Font=,8,0
+Language=0x0409
+
+[WINDOWS]
+main="KeyValueOnlineStorage Reference","KeyValueOnlineStorage.hhc","KeyValueOnlineStorage.hhk","topic_0000000000000010.html",,,,,,0x62520,,0x381e,[73,30,525,455],,,,,,,0
+
+[FILES]
+msdn2017\*.gif
+msdn2017\*.png
+
+
+
+[ALIAS]
+topic_0000000000000000.html=topic_0000000000000000.html
+topic_0000000000000004.html=topic_0000000000000004.html
+topic_0000000000000001.html=topic_0000000000000001.html
+topic_0000000000000002.html=topic_0000000000000002.html
+topic_0000000000000005.html=topic_0000000000000005.html
+topic_000000000000000C.html=topic_000000000000000C.html
+topic_000000000000000B.html=topic_000000000000000B.html
+topic_0000000000000009.html=topic_0000000000000009.html
+topic_000000000000000F.html=topic_000000000000000F.html
+topic_0000000000000006.html=topic_0000000000000006.html
+topic_0000000000000007.html=topic_0000000000000007.html
+topic_0000000000000010.html=topic_0000000000000010.html
+topic_000000000000000D.html=topic_000000000000000D.html
+topic_0000000000000003.html=topic_0000000000000003.html
+topic_0000000000000008.html=topic_0000000000000008.html
+topic_000000000000000A.html=topic_000000000000000A.html
+topic_000000000000000E.html=topic_000000000000000E.html
+
+
+[MAP]
+#define topic_0000000000000000.html 101
+#define topic_0000000000000004.html 107
+#define topic_0000000000000001.html 102
+#define topic_0000000000000002.html 103
+#define topic_0000000000000005.html 112
+#define topic_000000000000000C.html 119
+#define topic_000000000000000B.html 118
+#define topic_0000000000000009.html 116
+#define topic_000000000000000F.html 124
+#define topic_0000000000000006.html 113
+#define topic_0000000000000007.html 114
+#define topic_0000000000000010.html 100
+#define topic_000000000000000D.html 121
+#define topic_0000000000000003.html 106
+#define topic_0000000000000008.html 115
+#define topic_000000000000000A.html 117
+#define topic_000000000000000E.html 123
+
