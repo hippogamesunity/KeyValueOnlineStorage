@@ -41,14 +41,7 @@ namespace Assets.KeyValueOnlineStorage
 			{
 				if (success)
 				{
-					if (string.IsNullOrEmpty(result))
-					{
-						Output.text = "Key not found. It may be deleted when storage cleanup.";
-					}
-					else
-					{
-						Output.text = result;
-					}
+					Output.text = result;
 				}
 				else
 				{
