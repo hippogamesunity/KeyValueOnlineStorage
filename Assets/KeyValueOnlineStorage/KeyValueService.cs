@@ -37,9 +37,26 @@ namespace Assets.KeyValueOnlineStorage
 
 			Downloader.Download(ServiceUrl, form, www =>
 			{
-				var success = www.error == null || www.error == "necessary data rewind wasn't possible"; // Redirect
+				var success = www.error == null;
+				var result = "";
 
-				callback(success, www.text);
+				if (success)
+				{
+					try
+					{
+						var response = JsonUtility.FromJson<ServiceResponse>(www.text);
+
+						success = response.ErrorCode == 0;
+						result = response.Result;
+					}
+					catch (Exception e)
+					{
+						success = false;
+						result = e.Message;
+					}
+				}
+
+				callback(success, result);
 			});
 		}
 	}
