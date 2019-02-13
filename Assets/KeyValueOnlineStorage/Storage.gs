@@ -33,7 +33,7 @@ function doWork(e)
     }
     else if (e.parameter['get'] != null)
     {     
-      return PropertiesService.getScriptProperties().getProperty(e.parameter['get']);
+      return Get(e.parameter['get']);
     }
     else if (e.parameter['count'] != null && e.parameter['password'] == adminPassword)
     {
@@ -64,7 +64,7 @@ function doWork(e)
   }
   catch (exception)
   {
-    return exception;
+    return JSON.stringify({ 'ErrorCode': 1, 'Result': exception });
   }
 }
 
@@ -93,7 +93,7 @@ function Set(value)
     {
       service.setProperty(key, value);
       
-      return key;
+      return JSON.stringify({ 'ErrorCode': 0, 'Result': key });
     }
     catch (exception)
     {
@@ -109,6 +109,20 @@ function Set(value)
   }  
    
   throw 'Unable to set value. Please contact us: ' + supportEmail;
+}
+
+function Get(key)
+{
+  var value = PropertiesService.getScriptProperties().getProperty(key);
+  
+  if (value == null)
+  {
+    return JSON.stringify({ 'ErrorCode': 1, 'Result': 'Value not found.' });
+  }
+  else
+  {
+    return JSON.stringify({ 'ErrorCode': 0, 'Result': value });
+  }  
 }
 
 function Output(scriptProperties)

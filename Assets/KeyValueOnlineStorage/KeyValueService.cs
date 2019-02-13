@@ -55,6 +55,10 @@ namespace Assets.KeyValueOnlineStorage
 						result = e.Message;
 					}
 				}
+				else
+				{
+					result = www.error;
+				}
 
 				callback(success, result);
 			});
